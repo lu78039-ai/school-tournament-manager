@@ -1,0 +1,14 @@
+# Local match records and connection credentials
+.sync/
+.sync-test/
+sync-test-fixture.json
+
+# Runtime caches
+__pycache__/
+*.pyc
+.env
+.env.*
+
+# Local previews
+*.png
+*.jpg
